@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "pages/Demo", "src/Charts/indext", "src/Charts/Charts" , "pages/demo.js" ],
   "exclude": [
     "node_modules"
   ]
